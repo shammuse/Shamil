@@ -9,9 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/getahun1921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="getahun1921" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/getahunTiruneh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getahuntiruneh" height="30" width="40" /></a>
-<a href="https://fb.com/gech.cr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gech.cr7" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shamil-musema-a67bb8278/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shamil Musema" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
